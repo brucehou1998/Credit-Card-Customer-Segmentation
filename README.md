@@ -10,7 +10,7 @@
 
 <br>**Method**<br>
 <br>1. Exploratory Data Analysis
-2. Hierarchical Clustering and K-Mean Clustering
+<br>2. Hierarchical Clustering and K-Mean Clustering
 > * Used a dendrogram to visualize the hierarchical relationship
 > * Recorded the inertia and the average silhouette score for different cluster sizes before conducting K-Means clustering
 > * Used Principal Component Analysis (PCA) to reduce the column dimensions since we noticed highly correlated features in our Exploratory Data Analysis (EDA)
